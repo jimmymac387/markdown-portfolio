@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I :heart: data! I like using open-source technologies like **R** *and* **Python** to learn new things!
